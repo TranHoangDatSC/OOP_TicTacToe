@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Admin\Source\Repos\Soldat_CK_OOP\Soldat_CK_OOP\ComputerPlayer.h(14,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Soldat_CK_OOP.vcxproj -> C:\Users\Admin\Source\Repos\Soldat_CK_OOP\x64\Debug\Soldat_CK_OOP.exe
